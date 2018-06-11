@@ -1,0 +1,29 @@
+// 既定の設定とユーザー設定を上書きするには、このファイル内に設定を挿入します
+{
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/.project": true
+  },
+  "editor.renderControlCharacters": true,
+  "editor.autoClosingBrackets": false,
+  "editor.trimAutoWhitespace": false,
+  "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "DesertEx",
+  "editor.wordWrapColumn": 90,
+  "editor.wordWrap": "wordWrapColumn",
+  "files.insertFinalNewline": true,
+  "typescript.check.npmIsInstalled": false,
+  "workbench.statusBar.visible": true,
+  "git.enabled": false,
+  "window.zoomLevel": 0,
+  "window.menuBarVisibility": "default",
+  "editor.minimap.enabled": true,
+  "telemetry.enableTelemetry": false,
+  "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+}
